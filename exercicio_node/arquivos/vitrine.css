@@ -1,0 +1,72 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin-left: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  
+  
+  /* Estilos para o cabeçalho */
+  h1 {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  /* Estilos para o título "Cardápio" */
+  h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Estilos para as células da tabela */
+  td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Estilos para as imagens */
+  img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
+  /* Estilos para os botões de "Comprar" */
+  button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Espaçamento entre os itens do cardápio */
+  tr {
+    margin-bottom: 20px;
+
+  }
+  
+  /* Espaçamento entre os itens do cardápio */
+  br {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  /* Estilos para o input de quantidade */
+  input[type="text"] {
+    width: 40px;
+    padding: 5px;
+  }
+
+  tbody{
+    text-align: center;
+
+  }
+  
+ 
+  
